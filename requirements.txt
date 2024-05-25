@@ -1,0 +1,15 @@
+absl_py==1.4.0
+datrie==0.8.2
+dm_tree==0.1.8
+lark==1.1.9
+lz4==4.3.3
+numpy==1.26.4
+pathos==0.3.3.dev0
+rich==13.7.1
+scipy==1.13.0
+skia_python==87.5
+timm==1.0.3
+torch==2.1.2+cu121
+tqdm==4.66.1
+wandb==0.16.4
+iceberg-dsl @ git+https://github.com/revalo/iceberg.git@db446c1ed
