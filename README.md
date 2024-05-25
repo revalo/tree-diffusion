@@ -18,7 +18,7 @@ All model weights are in `assets/`.
 
 ### Download Model Weights
 
-Please download all model weights from [this link](https://www.dropbox.com/scl/fi/3d8lc4dhppckye8tx497s/assets.zip?rlkey=x1pyqgzvqh7smmhavfkg688lg&dl=1), and place them in a new folder called `assets/` in the root directory of this repository.
+Please download all model weights from [this link](https://github.com/revalo/tree-diffusion/releases/download/model-weights/assets.zip), and place them in a new folder called `assets/` in the root directory of this repository.
 
 
 ### Dependencies
