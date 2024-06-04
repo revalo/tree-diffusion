@@ -2,7 +2,7 @@
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Ftree-diffusion.github.io)
 
-[Homepage](https://tree-diffusion.github.io) | [Paper](https://arxiv.org) | [BibTeX](https://tree-diffusion.github.io/#citation)
+[Homepage](https://tree-diffusion.github.io) | [Paper](https://arxiv.org/abs/2405.20519) | [BibTeX](https://tree-diffusion.github.io/#citation)
 
 <p align="center">
   <img src="images/sketch8.gif" height="300">
